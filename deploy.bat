@@ -1,0 +1,1 @@
+call windeployqt.exe .\RVCSerialTest.exe
